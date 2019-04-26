@@ -1,2 +1,4 @@
 *.pyc
-/build/
+/build
+/__pycache__
+/dist
