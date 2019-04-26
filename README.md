@@ -1,6 +1,10 @@
 ## Blackjack game made using Python and Tkinter
 
+<<<<<<< HEAD
 To run, download/clone this entire repository and double click the **"Python Blackjack Github-1.0-amd64.msi"** installation file if you are running a Windows machine. The default directory is Program Files, but if you choose a different directory, make sure to create a new folder before installation.
+=======
+No Python installation is needed. To run, simply download the "build" folder and double click the "Blackjack.exe" executable if you are running a Windows machine. 
+>>>>>>> c0750c2ed329d451eaf76e30824726524f854487
 
 This app may not work in Mac and Linux systems.
 
@@ -9,7 +13,11 @@ Please note that there is a chance your anti-virus may block the Blackjack appli
 ![Python Blackjack game](https://raw.githubusercontent.com/amj18/blackjack-game/master/screenshots/blackjackgui_01.PNG)
 
 **Blackjack version 1.0 currently allows the following:**
+<<<<<<< HEAD
 * First to get a score of 21 wins.
+=======
+* First to 21 wins.
+>>>>>>> c0750c2ed329d451eaf76e30824726524f854487
 * Card scoring system is as follows: "TWO":2, "THREE":3, "FOUR":4, "FIVE":5, "SIX":6, "SEVEN":7, "EIGHT":8, "NINE":9, "TEN":10, "JACK":10, "QUEEN":10, "KING":10, "ACE":1
 * The value of the Ace can change between 1 and 11, and a special condition is implemented to allow correct calculation of these values.
 * Player or Dealer automatically win or lose depending if they reach 21, exceed it, or have a larger/lower spread than the other.
@@ -23,7 +31,10 @@ Please note that there is a chance your anti-virus may block the Blackjack appli
 * Player is not able to change bet size or do a new deal while hitting or standing.
 * If player loses all money, a new game prompt will reset the game, bank, and scores.
 
+<<<<<<< HEAD
 ** Edge cases not accounted for **
 * The player can potentially keep hitting cards which will go off the game screen if the total value is less than 21. Player must click "stand" to end the round.
 
+=======
+>>>>>>> c0750c2ed329d451eaf76e30824726524f854487
 Playing card images from momo-ozawa: https://github.com/momo-ozawa
