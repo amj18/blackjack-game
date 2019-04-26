@@ -2,8 +2,6 @@
 
 To run, download/clone this entire repository and double click the **"Python Blackjack Github-1.0-amd64.msi"** installation file if you are running a Windows 8.1/10 or above systems. The default directory is Program Files, but if you choose a different directory, make sure to create a new folder before installation.
 
-No Python installation is needed. To run, simply download the "build" folder and double click the "Blackjack.exe" executable if you are running a Windows machine. 
-
 This app may not work in Mac and Linux systems.
 
 Please note that there is a chance your anti-virus may block the Blackjack application from running on your system. 
