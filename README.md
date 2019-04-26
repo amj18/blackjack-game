@@ -1,11 +1,5 @@
 ## Blackjack game made using Python and Tkinter
 
-To run, download/clone this entire repository and double click the **"Python Blackjack Github-1.0-amd64.msi"** installation file if you are running a Windows 8.1/10 or above systems. The default directory is Program Files, but if you choose a different directory, make sure to create a new folder before installation.
-
-This app may not work in Mac and Linux systems.
-
-Please note that there is a chance your anti-virus may block the Blackjack application from running on your system. 
-
 ![Python Blackjack game](https://raw.githubusercontent.com/amj18/blackjack-game/master/screenshots/blackjackgui_01.PNG)
 
 **Blackjack version 1.0 currently allows the following:**
