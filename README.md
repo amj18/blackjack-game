@@ -1,6 +1,6 @@
 ## Blackjack game made using Python and Tkinter
 
-To run, download/clone this entire repository and double click the **"Python Blackjack Github-1.0-amd64.msi"** installation file if you are running a Windows machine. The default directory is Program Files, but if you choose a different directory, make sure to create a new folder before installation.
+To run, download/clone this entire repository and double click the **"Python Blackjack Github-1.0-amd64.msi"** installation file if you are running a Windows 8.1/10 or above systems. The default directory is Program Files, but if you choose a different directory, make sure to create a new folder before installation.
 
 No Python installation is needed. To run, simply download the "build" folder and double click the "Blackjack.exe" executable if you are running a Windows machine. 
 
