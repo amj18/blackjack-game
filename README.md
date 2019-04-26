@@ -25,7 +25,7 @@ Please note that there is a chance your anti-virus may block the Blackjack appli
 * Player is not able to change bet size or do a new deal while hitting or standing.
 * If player loses all money, a new game prompt will reset the game, bank, and scores.
 
-** Edge cases not accounted for **
+**Edge cases not accounted for**
 * The player can potentially keep hitting cards which will go off the game screen if the total value is less than 21. Player must click "stand" to end the round.
 
 Playing card images from momo-ozawa: https://github.com/momo-ozawa
