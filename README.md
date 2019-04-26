@@ -6,6 +6,8 @@ This app may not work in Mac and Linux systems.
 
 Please note that there is a chance your anti-virus may block the Blackjack application from running on your system. 
 
+![Python Blackjack game](https://raw.githubusercontent.com/amj18/blackjack-game/master/screenshots/blackjackgui_01.PNG)
+
 **Blackjack version 1.0 currently allows the following:**
 * First to 21 wins.
 * Card scoring system is as follows: "TWO":2, "THREE":3, "FOUR":4, "FIVE":5, "SIX":6, "SEVEN":7, "EIGHT":8, "NINE":9, "TEN":10, "JACK":10, "QUEEN":10, "KING":10, "ACE":1
