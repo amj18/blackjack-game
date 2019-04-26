@@ -1,7 +1,7 @@
-## Blackjack game made using Python and Tkinter
+# Blackjack game made using Python and Tkinter #
 
+## Instructions ##
 
-Instructions
 * To run you must have Python 3.7 installed and key packages like tkinter installed
 * You must run the Blackjack.py file in a python IDE or command line to start the game. 
 * In order to create an executable file in Windows 8.1/10 or above without having to run Python all the time, run this command:
