@@ -1,0 +1,72 @@
+2019-04-26 21:44:49.615690
+Round number 1
+Hit...
+Bet size $456
+Dealer Hand contains: QUEEN of HEARTS, SEVEN of SPADES, 
+Player Hand contains: KING of DIAMONDS, JACK of SPADES, KING of HEARTS, 
+Player hand value 30
+Dealer hand value 17
+Player score 0
+Dealer score 1
+Player bank $544
+#---------------------#
+2019-04-26 21:44:55.715044
+Round number 2
+Hit...
+Bet size $444
+Dealer Hand contains: QUEEN of CLUBS, JACK of SPADES, 
+Player Hand contains: ACE of CLUBS, ACE of DIAMONDS, SIX of DIAMONDS, 
+Player hand value 18
+Dealer hand value 20
+Player score 0
+Dealer score 1
+Player bank $100
+#---------------------#
+2019-04-26 21:44:55.887155
+Round number 2
+Hit...
+Bet size $444
+Dealer Hand contains: QUEEN of CLUBS, JACK of SPADES, 
+Player Hand contains: ACE of CLUBS, ACE of DIAMONDS, SIX of DIAMONDS, ACE of HEARTS, 
+Player hand value 19
+Dealer hand value 20
+Player score 0
+Dealer score 1
+Player bank $100
+#---------------------#
+2019-04-26 21:44:56.055283
+Round number 2
+Hit...
+Bet size $444
+Dealer Hand contains: QUEEN of CLUBS, JACK of SPADES, 
+Player Hand contains: ACE of CLUBS, ACE of DIAMONDS, SIX of DIAMONDS, ACE of HEARTS, JACK of CLUBS, 
+Player hand value 19
+Dealer hand value 20
+Player score 0
+Dealer score 1
+Player bank $100
+#---------------------#
+2019-04-26 21:44:56.255407
+Round number 2
+Hit...
+Bet size $444
+Dealer Hand contains: QUEEN of CLUBS, JACK of SPADES, 
+Player Hand contains: ACE of CLUBS, ACE of DIAMONDS, SIX of DIAMONDS, ACE of HEARTS, JACK of CLUBS, EIGHT of CLUBS, 
+Player hand value 27
+Dealer hand value 20
+Player score 0
+Dealer score 2
+Player bank $100
+#---------------------#
+2019-04-26 21:45:17.868761
+Round number 3
+Stand...
+Bet size $100
+Dealer Hand contains: NINE of DIAMONDS, ACE of HEARTS, 
+Player Hand contains: QUEEN of HEARTS, TEN of SPADES, 
+Player hand value 20
+Dealer hand value 20
+Player score 0
+Dealer score 3
+Player bank $0
+#---------------------#
